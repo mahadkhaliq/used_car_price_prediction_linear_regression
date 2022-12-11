@@ -1,0 +1,838 @@
+﻿Car Name,Location,Model,Mileage (km),Fuel (Diesel/Petrol/Hybrid),Engine Cacity,Price (lac),Manual,Automatic
+Suzuki Mehran  2018   II ,Lahore,2018,53000,1,796,9.65,1,0
+Suzuki Khyber  1993  ,Islamabad,1993,55555,1,1000,1.85,1,0
+Toyota Vitz  2009 F 1.0 ,D.G.Khan,2009,123456,1,1000,17.35,0,1
+Suzuki Alto  2019 R AGS ,Karachi,2019,47000,1,660,20.8,0,1
+Suzuki FX  1983  ,Lahore,1983,45388,1,800,1.99,1,0
+Suzuki Mehran  2015   II ,Jacobabad,2015,84786,1,796,6.75,1,0
+KIA Sportage  2021  ,Karachi,2021,26000,1,2000,62,0,1
+Toyota Corolla  2020 Altis 1 1.6 ,Islamabad,2020,22300,1,1600,44.25,0,1
+Honda Civic  2003  Oriel  1.6 ,Wah cantt,2003,225000,1,1600,14.8,1,0
+Toyota Fortuner  2018 2.8  4 ,Lahore,2018,75000,0,2800,95,0,1
+Mercedes Benz C   2011 C180 ,Okara,2011,47000,1,1800,45,0,1
+Mitsubishi Lancer  2005 GLX 1 1.6 ,Faisalabad,2005,105000,1,1600,17,0,1
+FAW V2  2017  ,Bahawalpur,2017,71000,1,1300,13.5,1,0
+Suzuki Cultus  2016  II ,Lahore,2016,50000,1,1000,13.9,1,0
+Suzuki Alto  2022 R ,D.G.Khan,2022,7000,1,660,20.65,1,0
+Toyota Yaris  2021  X  1.5 ,Rawalpindi,2021,11000,1,1500,41.5,0,1
+KIA Sportage  2022  ,Islamabad,2022,3000,1,2000,75,0,1
+Toyota Prius  2010  ,Islamabad,2010,195000,2,1800,35.5,0,1
+Suzuki Alto  2022 R ,Rawalpindi,2022,2000,1,660,21,1,0
+Toyota Corolla  2019 Altis Grande -i 1.8 ,Islamabad,2019,55000,1,1800,44.5,0,1
+Suzuki Alto  2012 R (CNG) ,Islamabad,2012,130704,1,1000,11,1,0
+Honda BR-V  2018 i- S ,Faisalabad,2018,96000,1,1500,35,0,1
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,75956,1,1800,42,0,1
+Changan Oshan X7  2022  ,Islamabad,2022,20000,1,1500,77,0,1
+Toyota Aqua  2017 S ,Islamabad,2017,76000,2,1500,44.39,0,1
+Honda City  2019 1.3 i- ,Islamabad,2019,56202,1,1300,30.5,1,0
+Mitsubishi Ek Wagon  2018 E ,Karachi,2018,8235,1,660,26,0,1
+Mitsubishi Lancer  2005 GLX 1 1.6 ,Faisalabad,2005,105000,1,1600,17,0,1
+FAW V2  2017  ,Bahawalpur,2017,71000,1,1300,13.5,1,0
+Suzuki Cultus  2016  II ,Lahore,2016,50000,1,1000,13.9,1,0
+Toyota Surf  1992 SSR-G 3.0D ,Islamabad,1992,210000,0,2400,21,0,1
+Toyota Corolla  2017 Altis 1 1.6 ,Rawalpindi,2017,90000,1,1600,31,0,1
+Suzuki Alto  2022 R ,D.G.Khan,2022,7000,1,660,20.65,1,0
+Toyota Yaris  2021  X  1.5 ,Rawalpindi,2021,11000,1,1500,41.5,0,1
+KIA Sportage  2022  ,Islamabad,2022,3000,1,2000,75,0,1
+Honda Civic  2022 1.5 RS Turbo ,Lahore,2022,3170,1,1500,82,0,1
+Toyota Prius  2010  ,Islamabad,2010,195000,2,1800,35.5,0,1
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,81000,1,1800,37.7,0,1
+Suzuki Alto  2022 R ,Rawalpindi,2022,2000,1,660,21,1,0
+Toyota Corolla  2019 Altis Grande -i 1.8 ,Islamabad,2019,55000,1,1800,44.5,0,1
+Suzuki Mehran  2014 R  II ,Karachi,2014,97000,1,796,8.5,1,0
+Suzuki Cultus  2018 R ,Gujranwala,2018,54000,1,1000,19.7,1,0
+Mitsubishi Lancer  2005 GLX 1.3 ,Sargodha,2005,151000,1,1300,11.45,1,0
+Suzuki Margalla  1994 GL Plus ,Gojra,1994,150000,1,1300,7.5,1,0
+Toyota Surf  1994 SSR-G 2.7 ,D.G.Khan,1994,268000,0,2700,12,1,0
+Honda Vezel  2014 2 X Honda  ,Lahore,2014,116000,1,1500,37.95,1,0
+Suzuki Swift  2017 DLX 1.3 ,Islamabad,2017,61022,1,1300,20.95,1,0
+Honda City   2013 Aspire 1.5 i- ,Islamabad,2013,160000,1,1500,21,0,1
+Daihatsu Mira  2018 G Smart Drive  ,Islamabad,2018,55000,1,660,30.85,1,0
+Honda Fit  2015 1.5 2 S  ,Karachi,2015,96000,2,1500,27.95,1,0
+Honda City  2021 1.2L  ,Faisalabad,2021,21000,1,1200,35.95,0,1
+Suzuki Cultus  2010 Ri ,Karachi,2010,97915,1,1000,8.5,0,1
+Suzuki Cultus  2014  II ,Islamabad,2014,28908,1,1000,13,0,1
+Honda Civic  2016 Turbo 1.5   ,Islamabad,2016,81717,1,1500,38.5,1,0
+Honda BR-V  2018 i- MT ,Islamabad,2018,28990,1,1500,38,1,0
+Audi A8  (D4)  2013 L 2 ,Islamabad,2013,98474,2,2000,2,0,1
+Honda City   2017 Aspire 1.3 i- ,Islamabad,2017,99408,1,1300,29.5,1,0
+Honda Vezel  2016 2 RS Honda   ,Islamabad,2016,89213,2,1500,55.5,0,1
+Honda Civic  2004 EXi  ,Islamabad,2004,310656,1,1500,14.5,1,0
+Honda Fit  2013 1.5 2 S  ,Islamabad,2013,91873,2,1500,27.5,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Rawalpindi,2015,59342,1,1800,31.8,0,1
+Toyota Vitz  2011 F 1.0 ,Islamabad,2011,155589,1,1000,21.1,0,1
+Toyota Corolla  2014 GLi 1.3 V  ,Lahore,2014,110000,1,1300,24.9,0,1
+Toyota Duet  2007 S ,Peshawar,2007,50000,1,1000,8.2,0,1
+KIA Picanto  2021 1.0 AT ,Lahore,2021,18000,1,1000,26.9,1,0
+Honda City   2010 1.3 i- ,Islamabad,2010,228850,1,1300,20.2,1,0
+Toyota Prius Alpha  2013 S ,Karachi,2013,140000,1,1800,38,0,1
+Toyota Aqua  2022 S ,Multan,2022,28000,2,1500,44,1,0
+Suzuki Wagon R  2019 2 FZ ,Karachi,2019,30000,2,660,33.2,0,1
+Honda Civic  2022 1.5 RS Turbo ,Lahore,2022,5000,1,1500,80.9,0,1
+Mercedes Benz D   1990  ,Lahore,1990,150000,1,3000,19.5,0,1
+Toyota Prius  2018 PHV (Plug In 2) ,Nowshera cantt,2018,71000,1,1800,69.9,0,1
+Suzuki Cultus  2002 L (CNG) ,Lahore,2002,180000,1,1000,6.7,0,1
+Suzuki Baleno  2005 JXR ,Muzaffar Gargh,2005,100000,1,1300,7.5,0,1
+Suzuki Swift  2018 DLX 1.3 Navigation  ,Rawalpindi,2018,78000,1,1300,21.8,1,0
+Toyota Corolla  2001 2.0D Limited ,Lahore,2001,207690,0,2000,12.5,0,1
+Honda City  2005 i-DSI Vario ,Karachi,2005,150000,1,1300,11.25,1,0
+Toyota sso  2014 X G  ,Karachi,2014,102000,1,1000,20,1,0
+Toyota Corolla  2016 GLi 1.3 V ,Dera ismail khan,2016,61000,1,1300,28.5,1,0
+Mercedes Benz E   (W211)  2006 E200 ,Rawalpindi,2006,85000,1,1800,39.5,1,0
+Toyota Land Cruiser 100  2003  4.2D ,Karachi,2003,121245,0,4200,78,0,1
+Suzuki Cultus  2017 R ,Karachi,2017,8000,1,1000,24,0,1
+Suzuki Mehran  2006  ,Rawalpindi,2006,100000,1,800,5.4,1,0
+Toyota Corolla 9th  2007 XLi ,Karachi,2007,97500,1,1300,14.5,0,1
+Suzuki Margalla  1993  ,Lahore,1993,100000,1,1300,3.25,0,1
+Toyota Yaris  2021  X  1.5 ,Islamabad,2021,40453,1,1500,38.5,1,0
+Toyota Corolla  2019 Altis Grande -i 1.8 ,Rawalpindi,2019,57378,1,1800,49.9,1,0
+Toyota Corolla  2015 GLi 1.3 V ,Islamabad,2015,119701,1,1300,25,1,0
+Mercedes Benz E   (W211)  2007 E200 ,Islamabad,2007,50137,1,1800,48,1,0
+Toyota Fortuner  2022 2.7 V ,Islamabad,2022,14969,1,2700,1.26,0,1
+Honda Civic  2022 Oriel 1.8 i-  ,Islamabad,2022,10388,1,1800,55.9,0,1
+Audi Q5  2014 2.0 TFSI S Tronic Quattro ,Islamabad,2014,88736,1,2000,85,1,0
+Toyota Vitz  2011 F 1.0 ,Islamabad,2011,132933,1,1000,20.3,0,1
+Honda City   2018 1.3 i- ,Islamabad,2018,138427,1,1300,26.5,0,1
+Suzuki Cultus  2022 L ,Rawalpindi,2022,13580,1,1000,29,0,1
+Honda City   2017 Aspire 1.5 i- ,Islamabad,2017,85480,1,1500,29.5,0,1
+Suzuki Mehran  2014   II ,Islamabad,2014,58005,1,796,9,0,1
+Suzuki Bolan  2003  ,Rawalpindi,2003,2365,1,800,4.45,1,0
+Toyota Aqua  2016 G LED Soft Leather Selection  ,Haroonabad,2016,89000,2,1500,37.5,1,0
+Suzuki Alto  2021 R ,Taxila,2021,18000,1,660,22,1,0
+Honda Civic  2012  Oriel 1.8 i- ,Lahore,2012,96000,1,1800,20.25,1,0
+Suzuki Mehran  2017 R  II ,Kasur,2017,80000,1,796,9.75,1,0
+Toyota Corolla  2010 GLi 1.3 V ,Peshawar,2010,145000,1,1300,19.2,0,1
+Honda Civic  2020 Oriel 1.8 i-  ,Islamabad,2020,38000,1,1800,48.75,1,0
+Honda Civic  2018 Oriel 1.8 i-  ,Lahore,2018,61000,1,1800,42.65,1,0
+Suzuki Kei  2000 A ,Peshawar,2000,22002,1,660,9,1,0
+Honda Civic Eagle Eye 2005 EXi  ,Karachi,2005,166000,1,1500,12.4,1,0
+Suzuki Wagon R  2017 L ,Sialkot,2017,49000,1,1000,19.5,0,1
+Suzuki Mehran  2005 R ,Lahore,2005,16000,1,800,5.5,0,1
+Suzuki Mehran  2015 R  II ,Karachi,2015,31589,1,796,7.5,1,0
+Daihatsu Copen  2019 Cero ,Lahore,2019,42000,1,660,42.5,0,1
+Honda Civic Rebirth 2013 Oriel  UG ,Karachi,2013,100000,1,1800,24,1,0
+Toyota Corolla  2016 GLi 1.3 V ,Bahawalpur,2016,150000,1,1300,23.5,1,0
+Honda Civic  2016  Oriel  1.8 i- ,Faisalabad,2016,86000,1,1800,37.5,1,0
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,117000,1,1800,40,0,1
+Suzuki Alto  2018 L ,Islamabad,2018,71000,1,660,26.5,0,1
+Honda City   2015 1.3 i-  ,Lahore,2015,55000,1,1300,27.75,1,0
+Mitsubishi jero  2002  ,Lahore,2002,90000,1,3500,52,0,1
+Daihatsu Charade  1985 CL ,Karachi,1985,123456,1,1000,2,0,1
+Toyota Corolla  2015 GLi 1 1.3 V ,Islamabad,2015,95000,1,1300,27.9,0,1
+Suzuki Alto  2012 R (CNG) ,Islamabad,2012,130704,1,1000,11,0,1
+Toyota Aqua  2014 L ,Islamabad,2014,140727,2,1500,30.95,0,1
+KIA Picanto  2020 1.0 AT ,Islamabad,2020,19706,1,1000,25,1,0
+Honda City  2006 i-DSI ,Karachi,2006,110000,1,1300,13.75,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Islamabad,2015,156370,1,1800,32.5,1,0
+Suzuki Swift  2019 DLX 1.3 Navigation  ,Rawalpindi,2019,39203,1,1300,23.5,0,1
+Toyota Aqua  2018 S ,Islamabad,2018,110181,2,1500,46.75,0,1
+Suzuki Cultus  2022 1 Gear Shift ,Islamabad,2022,17551,1,1000,31.8,1,0
+Toyota Aqua  2013 G LED Soft Leather Selection  ,Islamabad,2013,64223,2,1500,31.5,0,1
+Toyota Vitz  2012 F 1.0 ,Islamabad,2012,201427,1,1000,23,1,0
+Toyota Prado  2011 TZ 4.0 ,Islamabad,2011,114393,1,4000,1.5,0,1
+Honda City  2002 EXi S 1 ,Islamabad,2002,223026,1,1500,14.5,0,1
+Toyota Corolla  2022 Altis 1 1.6 ,Islamabad,2022,4500,1,1600,49,0,1
+Honda BR-V  2018 i- S ,Faisalabad,2018,96000,1,1500,35,0,1
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,75956,1,1800,42,0,1
+Toyota Hilux  2012 Vigo Champ GX ,Karachi,2012,89000,0,2500,43.5,0,1
+Changan Oshan X7  2022  ,Islamabad,2022,2000,1,1500,77,0,1
+Honda Civic  2004  Oriel  1.6 ,Rawalpindi,2004,1234,1,1600,14.5,0,1
+Toyota Corolla  2017 XLi V ,Faisalabad,2017,105000,1,1300,26.45,0,1
+JMC Vigus  2016 4x4 Double Cab ,Multan,2016,60000,0,2800,22,0,1
+Suzuki Wagon R  2018 L ,Lahore,2018,99000,1,1000,18,0,1
+Honda BR-V  2017 i- S ,Hyderabad,2017,76200,1,1500,33,0,1
+Toyota Aqua  2017 S ,Islamabad,2017,76000,2,1500,44.39,1,0
+Toyota Vitz  1999 FL 1.0 ,D.G.Khan,1999,100000,1,1000,13,1,0
+Toyota Corolla  2021 Altis Grande X -i 1.8 Black Interior ,Peshawar,2021,13000,1,1800,58.5,1,0
+Honda City  2019 1.3 i- ,Islamabad,2019,56202,1,1300,30.5,0,1
+Honda City  2021 1.5L ASPIRE  ,Lahore,2021,6000,1,1500,35.95,0,1
+Honda Civic  2016 Oriel  UG ,Faisalabad,2016,82250,1,1800,37.75,0,1
+Mitsubishi Ek Wagon  2018 E ,Karachi,2018,8235,1,660,26,0,1
+Honda Civic  2006   1.8 i- ,Chakwal,2006,319028,1,1800,13.3,1,0
+Suzuki Khyber  1996  ,Karachi,1996,16600,1,1000,3.4,0,1
+Toyota Rush  2007 G Limited ,Karachi,2007,47000,1,1500,23,0,1
+Toyota Aqua  2013 G LED Soft Leather Selection  ,Karachi,2013,78000,2,1500,26.7,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Faisalabad,2019,65000,1,1800,44,0,1
+Toyota Corolla  2014 Altis Grande 1.8 ,Islamabad,2014,110954,1,1800,33,1,0
+Toyota Ractis  2007 1.3X ,Islamabad,2007,181624,1,1300,17.5,0,1
+Changan Karvaan  2021 Plus ,Islamabad,2021,10766,1,1000,23,0,1
+Honda City   2011 1.3 i- ,Islamabad,2011,89599,1,1300,19.85,0,1
+Toyota Yaris  2020  X  1.5 ,Islamabad,2020,41122,1,1500,35.9,0,1
+Honda Vezel  2017 2 RS Honda   ,Islamabad,2017,83644,2,1500,67.5,0,1
+Daihatsu Cuore  2009 CL ,Islamabad,2009,107164,1,800,8,1,0
+Toyota Prius  2012 S Touring Selection 1.8 ,Islamabad,2012,222326,1,1800,42,0,1
+MG HS  2022 1.5 Turbo ,Islamabad,2022,20616,1,1500,66,1,0
+Toyota Lite Ace  2004  ,Islamabad,2004,424139,1,1800,19,0,1
+Toyota Fortuner  2020 2.7 V ,Islamabad,2020,32347,1,2700,1.15,0,1
+Suzuki Cultus  2015  II ,Chakwal,2015,48000,1,1000,15.9,1,0
+Honda City  2004 i-DSI Vario ,Lahore,2004,132000,1,1300,13.25,0,1
+Suzuki Alto  2021 R ,Lahore,2021,27000,1,660,20.25,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Faisalabad,2019,61000,1,1800,44,1,0
+Suzuki Wagon R  2017 L ,Lahore,2017,75500,1,1000,16.5,0,1
+Honda City   2013 1.3 i- ,Islamabad,2013,110000,1,1300,21.45,1,0
+Toyota Corolla  2017 Altis 1 1.6 ,Islamabad,2017,84800,1,1600,37.5,1,0
+Honda City  2021 1.2L  ,Faisalabad,2021,21000,1,1200,35.95,0,1
+Suzuki Alto  2017 F ,Haripur,2017,39000,1,660,25.5,1,0
+Honda Civic  1996  1 1.6 ,Islamabad,1996,156744,1,1600,7.25,0,1
+Suzuki Cultus  2010 Ri ,Karachi,2010,97915,1,1000,8.5,1,0
+Suzuki Alto  2020 R ,Hafizabad,2020,72000,1,660,18.4,0,1
+Toyota Land Cruiser 80  1992 GX 4.2D ,Rawalpindi,1992,123456,0,4200,31,1,0
+Honda City   2018 1.3 i- ,Lahore,2018,115000,1,1300,28,0,1
+Honda City   2014 1.5 i- ,Faisalabad,2014,108000,1,1500,19.75,0,1
+Honda City  2001 EXi ,Islamabad,2001,100000,1,1300,8.8,0,1
+Suzuki Mehran  2004  ,Karachi,2004,89000,1,800,5.1,0,1
+Toyota C-HR  2017 S ,Lahore,2017,50000,2,1800,76,1,0
+Suzuki Cultus  2014  II ,Islamabad,2014,28908,1,1000,13,1,0
+Suzuki Cultus  2017  ,Karachi,2017,74000,1,1000,15.5,0,1
+Toyota Corolla  2015 GLi 1.3 V ,Islamabad,2015,71000,1,1300,29.25,1,0
+Honda Civic  2018 Oriel 1.8 i-  ,Lahore,2018,81000,1,1800,39.5,1,0
+Toyota Prius  2011 G 1.8 ,Peshawar,2011,92705,2,1800,31,1,0
+Honda Civic  2017 1.5 RS Turbo ,Islamabad,2017,43338,1,1500,46,1,0
+Toyota Corolla  2021 Altis X 1 1.6 ,Islamabad,2021,24008,1,1600,47,0,1
+Toyota Hilux  2021 Revo V 1 2.8 ,Islamabad,2021,18353,0,2800,98,1,0
+Mitsubishi jero  2006 GLS 2.8D ,Islamabad,2006,228986,0,2800,40,1,0
+Toyota Corolla  2014 GLi  1.3 V ,Islamabad,2014,109074,1,1300,25,1,0
+Toyota Corolla  2021 Altis X 1 1.6 ,Islamabad,2021,41640,1,1600,43,0,1
+Toyota C-HR  2017 S ,Islamabad,2017,155049,2,1800,72.5,0,1
+Honda Civic  2001  Oriel 1 1.6 ,Islamabad,2001,214484,1,1600,11.5,0,1
+Nissan Tiida  2007 15S ,Islamabad,2007,118307,1,1500,16,0,1
+Daihatsu Move  2012 X ,Islamabad,2012,93704,1,660,14.9,0,1
+Honda Civic  2016 Turbo 1.5   ,Islamabad,2016,81717,1,1500,38.5,0,1
+Honda BR-V  2018 i- MT ,Islamabad,2018,28990,1,1500,38,0,1
+Audi A8  (D4)  2013 L 2 ,Islamabad,2013,98474,2,2000,2,1,0
+Honda City   2017 Aspire 1.3 i- ,Islamabad,2017,99408,1,1300,29.5,0,1
+Honda Vezel  2016 2 RS Honda   ,Islamabad,2016,89213,2,1500,55.5,0,1
+Honda Civic  2004 EXi  ,Islamabad,2004,310656,1,1500,14.5,0,1
+Honda Fit  2013 1.5 2 S  ,Islamabad,2013,91873,2,1500,27.5,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Rawalpindi,2015,59342,1,1800,31.8,0,1
+Toyota Vitz  2011 F 1.0 ,Islamabad,2011,155589,1,1000,21.1,0,1
+Toyota Yaris  2021  X  1.5 ,Islamabad,2021,40453,1,1500,38.5,1,0
+Toyota Corolla  2019 Altis Grande -i 1.8 ,Rawalpindi,2019,57378,1,1800,49.9,0,1
+Toyota Corolla  2015 GLi 1.3 V ,Islamabad,2015,119701,1,1300,25,1,0
+Mercedes Benz E   (W211)  2007 E200 ,Islamabad,2007,50137,1,1800,48,0,1
+Toyota Fortuner  2022 2.7 V ,Islamabad,2022,14969,1,2700,1.26,0,1
+Honda Civic  2022 Oriel 1.8 i-  ,Islamabad,2022,10388,1,1800,55.9,0,1
+Audi Q5  2014 2.0 TFSI S Tronic Quattro ,Islamabad,2014,88736,1,2000,85,0,1
+Toyota Vitz  2011 F 1.0 ,Islamabad,2011,132933,1,1000,20.3,0,1
+Honda City   2018 1.3 i- ,Islamabad,2018,138427,1,1300,26.5,0,1
+Suzuki Cultus  2022 L ,Rawalpindi,2022,13580,1,1000,29,0,1
+Honda City   2017 Aspire 1.5 i- ,Islamabad,2017,85480,1,1500,29.5,1,0
+Suzuki Mehran  2014   II ,Islamabad,2014,58005,1,796,9,0,1
+Toyota Aqua  2014 L ,Islamabad,2014,140727,2,1500,30.95,0,1
+Mazda Carol  2019 GX ,Islamabad,2019,9320,1,660,32,0,1
+Honda Vezel  2014 2 Z ,Islamabad,2014,168642,2,1500,37.9,0,1
+Honda City   2018 1.3 i- ,Islamabad,2018,74339,1,1300,27.75,0,1
+Toyota Fortuner  2013 2.7 V ,Islamabad,2013,101327,1,2700,57,1,0
+Hyundai Elantra  2022 GL ,Islamabad,2022,6165,1,1600,52.9,1,0
+Honda Civic  2016  1.8 i- ,Islamabad,2016,161444,1,1800,28,1,0
+Honda Civic  2019 Oriel 1.8 i-  ,Islamabad,2019,69951,1,1800,45.5,1,0
+MG HS  2021  ,Islamabad,2021,21739,1,1500,61.75,0,1
+Toyota Rav4  2002 G ,Islamabad,2002,193034,1,2000,22,0,1
+KIA Picanto  2020 1.0 AT ,Islamabad,2020,19706,1,1000,25,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Islamabad,2015,156370,1,1800,32.5,1,0
+Suzuki Swift  2019 DLX 1.3 Navigation  ,Rawalpindi,2019,39203,1,1300,23.5,0,1
+Toyota Aqua  2018 S ,Islamabad,2018,110181,2,1500,46.75,0,1
+Suzuki Cultus  2022 1 Gear Shift ,Islamabad,2022,17551,1,1000,31.8,0,1
+Toyota Aqua  2013 G LED Soft Leather Selection  ,Islamabad,2013,64223,2,1500,31.5,1,0
+Toyota Vitz  2012 F 1.0 ,Islamabad,2012,201427,1,1000,23,0,1
+Toyota Prado  2011 TZ 4.0 ,Islamabad,2011,114393,1,4000,1.5,0,1
+Honda City  2002 EXi S 1 ,Islamabad,2002,223026,1,1500,14.5,1,0
+Toyota Corolla  2022 Altis 1 1.6 ,Islamabad,2022,4500,1,1600,49,0,1
+Toyota Corolla  2014 Altis Grande 1.8 ,Islamabad,2014,110954,1,1800,33,0,1
+Toyota Ractis  2007 1.3X ,Islamabad,2007,181624,1,1300,17.5,1,0
+Changan Karvaan  2021 Plus ,Islamabad,2021,10766,1,1000,23,0,1
+Honda City   2011 1.3 i- ,Islamabad,2011,89599,1,1300,19.85,0,1
+Toyota Yaris  2020  X  1.5 ,Islamabad,2020,41122,1,1500,35.9,0,1
+Honda Vezel  2017 2 RS Honda   ,Islamabad,2017,83644,2,1500,67.5,0,1
+Toyota Prius  2012 S Touring Selection 1.8 ,Islamabad,2012,222326,1,1800,42,0,1
+MG HS  2022 1.5 Turbo ,Islamabad,2022,20616,1,1500,66,0,1
+Suzuki Every  2014 Join ,Islamabad,2014,209172,1,660,13.5,0,1
+Toyota Yaris  2022  MT 1.3 ,Islamabad,2022,6280,1,1300,38.5,0,1
+KIA Stonic  2022 EX+ ,Islamabad,2022,5757,1,1400,48,0,1
+Lexus RX   2010 450h ,Islamabad,2010,133788,2,3500,86,1,0
+MG HS  2021 1.5 Turbo ,Islamabad,2021,12583,1,1500,68,0,1
+Toyota Corolla  2001 GLi 1.6 ,Islamabad,2001,234418,1,1600,9.95,1,0
+Honda City  2001 EXi ,Islamabad,2001,255270,1,1300,8.2,0,1
+Toyota Prado  2013 TX 2.7 ,Islamabad,2013,74847,1,2700,1.75,0,1
+Honda Civic  2021 1.5 RS Turbo ,Islamabad,2021,19839,1,1500,67,1,0
+Honda Vezel  2017 2 X Honda  ,Islamabad,2017,69715,1,1500,57,0,1
+Honda Civic  2017 Oriel 1.8 i-  ,Islamabad,2017,88688,1,1800,41,0,1
+Toyota Lite Ace  2004  ,Islamabad,2004,424139,1,1800,19,0,1
+Toyota Fortuner  2020 2.7 V ,Islamabad,2020,32347,1,2700,1.15,1,0
+Honda Civic  2017 1.5 RS Turbo ,Islamabad,2017,43338,1,1500,46,0,1
+Toyota Corolla  2021 Altis X 1 1.6 ,Islamabad,2021,24008,1,1600,47,0,1
+Toyota Hilux  2021 Revo V 1 2.8 ,Islamabad,2021,18353,0,2800,98,0,1
+Mitsubishi jero  2006 GLS 2.8D ,Islamabad,2006,228986,0,2800,40,1,0
+Toyota Corolla  2014 GLi  1.3 V ,Islamabad,2014,109074,1,1300,25,1,0
+Toyota Corolla  2021 Altis X 1 1.6 ,Islamabad,2021,41640,1,1600,43,0,1
+Toyota C-HR  2017 S ,Islamabad,2017,155049,2,1800,72.5,0,1
+Honda Civic  2001  Oriel 1 1.6 ,Islamabad,2001,214484,1,1600,11.5,0,1
+Nissan Tiida  2007 15S ,Islamabad,2007,118307,1,1500,16,0,1
+Daihatsu Move  2012 X ,Islamabad,2012,93704,1,660,14.9,1,0
+Mazda Carol  2019 GX ,Islamabad,2019,9320,1,660,32,0,1
+Honda Vezel  2014 2 Z ,Islamabad,2014,168642,2,1500,37.9,0,1
+Honda City   2018 1.3 i- ,Islamabad,2018,74339,1,1300,27.75,0,1
+Toyota Fortuner  2013 2.7 V ,Islamabad,2013,101327,1,2700,57,0,1
+Hyundai Elantra  2022 GL ,Islamabad,2022,6165,1,1600,52.9,0,1
+Toyota Corolla  2022 Altis Grande X -i 1.8 Beige Interior ,Islamabad,2022,16179,1,1800,59.5,0,1
+Toyota Corolla  2022 Altis X 1 1.6  ,Islamabad,2022,7461,1,1600,51.6,1,0
+Honda Vezel  2014 2 Z Honda   ,Islamabad,2014,75758,1,1500,53,0,1
+DFSK Glory 580  2021 Pro ,Islamabad,2021,21828,1,1500,50,0,1
+Toyota Corolla  2009 GLi 1.3 V ,Islamabad,2009,136146,1,1300,17.85,0,1
+Toyota Pixis Epoch  2019 G ,Islamabad,2019,30265,1,660,29.9,0,1
+Suzuki Cultus  2021 1 Gear Shift ,Islamabad,2021,20185,1,1000,31.5,0,1
+DFSK Glory 580  2021 Pro ,Islamabad,2021,3317,1,1500,52,0,1
+Toyota Hilux  2020 Revo V 1 3.0  ,Islamabad,2020,17224,0,3000,94.5,0,1
+Toyota Corolla Fielder  2017 G ,Islamabad,2017,78357,1,1500,50,1,0
+Daihatsu Bego  2007 CL ,Islamabad,2007,316806,1,1500,21.25,0,1
+Toyota Corolla Fielder  2016 2 G ,Islamabad,2016,65502,1,1500,44.9,0,1
+Honda Civic  2016  1.8 i- ,Islamabad,2016,161444,1,1800,28,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Islamabad,2019,69951,1,1800,45.5,0,1
+MG HS  2021  ,Islamabad,2021,21739,1,1500,61.75,0,1
+Toyota Rav4  2002 G ,Islamabad,2002,193034,1,2000,22,0,1
+Suzuki Every  2014 Join ,Islamabad,2014,209172,1,660,13.5,0,1
+Toyota Yaris  2022  MT 1.3 ,Islamabad,2022,6280,1,1300,38.5,1,0
+KIA Stonic  2022 EX+ ,Islamabad,2022,5757,1,1400,48,0,1
+Lexus RX   2010 450h ,Islamabad,2010,133788,2,3500,86,0,1
+MG HS  2021 1.5 Turbo ,Islamabad,2021,12583,1,1500,68,0,1
+Toyota Corolla  2001 GLi 1.6 ,Islamabad,2001,234418,1,1600,9.95,0,1
+Honda City  2001 EXi ,Islamabad,2001,255270,1,1300,8.2,0,1
+Toyota Prado  2013 TX 2.7 ,Islamabad,2013,74847,1,2700,1.75,0,1
+Honda Civic  2021 1.5 RS Turbo ,Islamabad,2021,19839,1,1500,67,0,1
+Honda Vezel  2017 2 X Honda  ,Islamabad,2017,69715,1,1500,57,1,0
+Honda Civic  2017 Oriel 1.8 i-  ,Islamabad,2017,88688,1,1800,41,0,1
+Honda City  2022 1.5L ASPIRE  ,Islamabad,2022,1523,1,1500,43,0,1
+KIA Picanto  2021 1.0 AT ,Islamabad,2021,37457,1,1000,25.5,1,0
+Honda City  2022 1.5L ASPIRE  ,Islamabad,2022,9501,1,1500,46.5,0,1
+Toyota Fortuner  2018 2.8  4 ,Islamabad,2018,104210,0,2800,1.1,1,0
+Honda BR-V  2021 i- S ,Islamabad,2021,7806,1,1500,46,0,1
+KIA Grand Carnival  2020 GLS ,Islamabad,2020,77066,1,3500,80,0,1
+Daihatsu Cuore  2006 CX 1 ,Islamabad,2006,162679,1,800,7.8,0,1
+Suzuki Alto  2020 X ,Islamabad,2020,14657,1,660,33,1,0
+DFSK Glory 580  2021 Pro ,Islamabad,2021,21828,1,1500,50,1,0
+Toyota Corolla  2009 GLi 1.3 V ,Islamabad,2009,136146,1,1300,17.85,0,1
+Toyota Pixis Epoch  2019 G ,Islamabad,2019,30265,1,660,29.9,0,1
+Suzuki Cultus  2021 1 Gear Shift ,Islamabad,2021,20185,1,1000,31.5,0,1
+DFSK Glory 580  2021 Pro ,Islamabad,2021,3317,1,1500,52,0,1
+Toyota Hilux  2020 Revo V 1 3.0  ,Islamabad,2020,17224,0,3000,94.5,0,1
+Toyota Corolla Fielder  2017 G ,Islamabad,2017,78357,1,1500,50,0,1
+Daihatsu Bego  2007 CL ,Islamabad,2007,316806,1,1500,21.25,0,1
+Toyota Corolla Fielder  2016 2 G ,Islamabad,2016,65502,1,1500,44.9,0,1
+Honda Insight  2010 G ,Karachi,2010,176302,2,1300,20,0,1
+Mercedes Benz E   (W212)  2014 E63 AMG ,Islamabad,2014,58000,1,5500,2,0,1
+Toyota Yaris  2022  X  1.5 ,Karachi,2022,3000,1,1500,41,0,1
+Daihatsu Mira  2020 X ,Karachi,2020,70000,1,1800,37.8,0,1
+Toyota Corolla  2022 Altis Grande X -i 1.8 Beige Interior ,Karachi,2022,1500,1,1800,59.5,0,1
+KIA Sportage  2021  ,Lahore,2021,49721,1,2000,64.5,1,0
+KIA Picanto  2022 1.0 AT ,Karachi,2022,5000,1,1000,27.65,0,1
+Suzuki Alto  2022 R ,Karachi,2022,4100,1,660,20.5,0,1
+Suzuki Alto  2022 L AGS ,Karachi,2022,4000,1,660,24.5,0,1
+Toyota Corolla  2022 Altis X 1 1.6 ,Karachi,2022,3000,1,1600,47.75,0,1
+Toyota Prado 120  2008 TX 2.7 ,Karachi,2008,175000,1,2700,79.5,0,1
+Toyota Vitz  2019 F 1.0 ,Karachi,2019,8000,1,1000,42.75,0,1
+Toyota Prius  2013  ,Karachi,2013,123000,1,1800,32.75,0,1
+Toyota Corolla  2016 Altis Grande -i 1.8 ,Lahore,2016,74300,1,1800,36.5,0,1
+Daihatsu Wake  2015  ,Charsadda,2015,65000,1,660,18.85,0,1
+Suzuki Mehran  2015 R  II ,Haroonabad,2015,70000,1,796,8.4,0,1
+Honda Vezel  2015 2 Z ,Karachi,2015,96000,2,1500,36,0,1
+Toyota Prius  2010 G 1.8 ,Karachi,2010,145000,2,1800,28.5,0,1
+Toyota Fortuner  2018 2.8  4 ,Islamabad,2018,104210,0,2800,1.1,0,1
+Honda BR-V  2021 i- S ,Islamabad,2021,7806,1,1500,46,0,1
+KIA Grand Carnival  2020 GLS ,Islamabad,2020,77066,1,3500,80,1,0
+Daihatsu Cuore  2006 CX 1 ,Islamabad,2006,162679,1,800,7.8,0,1
+Suzuki Alto  2020 X ,Islamabad,2020,14657,1,660,33,0,1
+Suzuki Swift  2022 GL 0 ,Islamabad,2022,2500,1,1200,31.5,0,1
+Honda City  2008 i-DSI ,Lahore,2008,123456,1,1300,15.85,0,1
+Suzuki Alto  2019 R ,Sargodha,2019,46500,1,660,18.5,0,1
+Honda City  2004 i-DSI ,Wah cantt,2004,200000,1,1300,11.6,0,1
+Suzuki Wagon R  2015 FX ,Peshawar,2015,90000,1,660,19.5,0,1
+Daihatsu Mira  2015 ES ,Islamabad,2015,66000,1,660,22.25,1,0
+Suzuki Wagon R  2022 L ,Lahore,2022,17000,1,1000,24,0,1
+Daihatsu Mira  2015 Custom L ,Karachi,2015,45000,1,660,20.5,0,1
+Honda Vezel  2016 2 Z ,Lahore,2016,80000,2,1500,47.9,0,1
+Toyota sso  2015 + Hana 1.0 ,Karachi,2015,61000,1,1000,25.5,0,1
+Toyota Yaris Hatchback  2020  ,Karachi,2020,51000,1,1000,48.5,0,1
+Toyota Vitz  2019 F Smile Edition 1.0 ,Karachi,2019,15000,1,1000,41.5,0,1
+Changan Karvaan  2022 Plus ,Multan,2022,25000,1,1000,21.75,0,1
+Toyota Yaris Hatchback  2020  ,Karachi,2020,44000,1,1000,48.5,1,0
+Suzuki Swift  2022 GLX  ,Karachi,2022,1500,1,1000,38.5,1,0
+Toyota Fortuner  2022 2.8  4 ,Karachi,2022,1000,0,2800,1.45,1,0
+Toyota Corolla  2022 Altis X 1 1.6  ,Lahore,2022,5200,1,1600,55.7,1,0
+Suzuki Alto  2022 R ,Karachi,2022,4100,1,660,20.5,0,1
+Suzuki Alto  2022 L AGS ,Karachi,2022,4000,1,660,24.5,0,1
+Toyota Corolla  2022 Altis X 1 1.6 ,Karachi,2022,3000,1,1600,47.75,1,0
+Toyota Prado 120  2008 TX 2.7 ,Karachi,2008,175000,1,2700,79.5,0,1
+Toyota Vitz  2019 F 1.0 ,Karachi,2019,8000,1,1000,42.75,0,1
+Toyota Fortuner  2014 2.7 V ,Lahore,2014,76089,1,2700,65,0,1
+Hyundai Santro  2004 Exec ,Lahore,2004,92000,1,1000,8.65,0,1
+Honda City  2007 i-DSI ,Lahore,2007,97000,1,1300,16.7,0,1
+Toyota Corolla  2018 Altis Grande -i 1.8 ,Karachi,2018,50200,1,1800,46,0,1
+Suzuki Cultus  2018 R ,Karachi,2018,50000,1,1000,20.5,0,1
+Toyota Corolla  2013 GLi 1.3 V ,Lahore,2013,174000,1,1300,22.75,1,0
+Suzuki Wagon R  2022 L ,Sialkot,2022,5000,1,1000,26.5,0,1
+Toyota Belta  2006  ,Karachi,2006,96606,1,1300,21,0,1
+Honda Civic  2022 Oriel 1.8 i-  ,Islamabad,2022,1800,1,1800,59.7,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Karachi,2015,69000,1,1800,31.9,0,1
+KIA Sportage  2020  ,Lahore,2020,41447,1,2000,59,1,0
+Toyota Vitz  2005  ,Islamabad,2005,120000,1,1000,15.9,0,1
+Suzuki Liana  2007  ,Lahore,2007,90000,1,1300,10.25,0,1
+Honda City   2015 1.3 i- ,Lahore,2015,106879,1,1300,25,0,1
+Suzuki Mehran  2016   II ,Multan,2016,206090,1,800,8.3,0,1
+Toyota Corolla  2014 XLi V ,Islamabad,2014,86000,1,1300,26.6,0,1
+Toyota Prius  2018 S Touring Selection ,Peshawar,2018,52000,2,1800,69,1,0
+Toyota Corolla  1994 LX Limited 1.3 ,Sargodha,1994,200000,1,1300,14,1,0
+United Bravo  2019  ,Lahore,2019,28400,1,800,7.45,0,1
+Suzuki Cultus  2008 Ri ,Lahore,2008,113000,1,1000,8.2,1,0
+Lexus RX   2010 450h ,Lahore,2010,105000,1,3500,72,1,0
+Mitsubishi jero  1989 Exceed 2.5D ,Karachi,1989,220000,0,2500,9,1,0
+Honda Civic  2002  Oriel 1.6 ,Islamabad,2002,150000,1,1600,14.2,0,1
+Honda City   2012 1.3 i- ,Lahore,2012,98000,1,1300,18.5,0,1
+Suzuki Wagon R  2015 FX Limited ,Peshawar,2015,90000,1,660,19.5,0,1
+Suzuki Wagon R  2018 2 FZ ,Abbottabad,2018,35000,2,660,29,0,1
+Toyota Corolla  2013 XLi V ,Islamabad,2013,179376,1,1300,23,0,1
+Honda City   2017 Aspire 1.5 i- ,Islamabad,2017,126650,1,1500,28,1,0
+Toyota Corolla  2017 XLi V ,Lahore,2017,70000,1,1300,28.25,1,0
+Honda BR-V  2017 i- S ,Islamabad,2017,126668,1,1500,37,1,0
+Toyota Prius  2010  ,Islamabad,2010,189535,1,1500,23.5,1,0
+Suzuki Cultus  2016  ,Islamabad,2016,31304,1,1000,15.5,0,1
+MG HS  2021 1.5 Turbo ,Islamabad,2021,26725,1,1500,60,1,0
+Changan Karvaan  2021 Plus ,Islamabad,2021,45713,1,1000,22,1,0
+Toyota Crown  2001 Royal Saloon G ,Islamabad,2001,89538,1,3000,32,1,0
+Suzuki Cultus  2012  II (CNG) ,Islamabad,2012,70019,1,1000,12.8,0,1
+Suzuki Wagon R  2021 L ,Islamabad,2021,33623,1,1000,24,1,0
+Honda Vezel  2016 2 Z Honda   ,Islamabad,2016,164810,1,1500,43,1,0
+Hyundai Tucson  2021  A/T Ultimate ,Lahore,2021,25000,1,2000,67.9,1,0
+Toyota Vitz  2005  ,Islamabad,2005,120000,1,1000,15.9,0,1
+Toyota Corolla 9th  2006 XLi ,Wah cantt,2006,78000,1,1300,18.7,0,1
+Daihatsu Cast  2016 Style X SA III ,Rawalpindi,2016,94000,1,660,21.95,1,0
+Mitsubishi Lancer  2006 GLX 1 1.6 ,Islamabad,2006,150000,1,1600,13.75,1,0
+Honda City  2005 i-DSI ,Karachi,2005,40000,1,1300,11.5,1,0
+Honda City  2008 i-DSI Vario ,Sargodha,2008,136000,1,1300,16.4,0,1
+Toyota Corolla  2016 GLi 1.3 V ,Karachi,2016,70000,1,1300,27.15,0,1
+Suzuki Cultus  2007 R ,Multan,2007,12345,1,1000,6.25,1,0
+Honda City   2015 Aspire 1.3 i- ,Islamabad,2015,92000,1,1300,21.4,0,1
+Toyota Corolla 9th  2007 Altis 1 1.8 ,Lahore,2007,141000,1,1800,18.95,1,0
+Honda City  2001 EXi ,Karachi,2001,12345,1,1300,7,0,1
+Suzuki Scia  2018 X ,Islamabad,2018,137000,2,660,17.25,1,0
+Mazda Carol Eco  2014  ,Islamabad,2014,75000,1,660,19.2,1,0
+Toyota Corolla Axio  2009 Luxel 1.8 ,Quetta,2009,140000,1,1800,29,0,1
+Suzuki Mehran  2011  ,Faisalabad,2011,123456,1,800,6,0,1
+Toyota Corolla  2010 Altis SR Cruisetronic 1.8 ,Sargodha,2010,150000,1,1800,25,0,1
+Honda Civic Rebirth 2014  Oriel  1.8 i- ,Islamabad,2014,130000,1,1800,29.95,1,0
+Suzuki Mehran  2013 R  II ,Peshawar,2013,12345,1,796,9.5,0,1
+BMW 3   2017 318i ,Islamabad,2017,103451,1,1500,75,0,1
+Honda Civic  2021 Oriel 1.8 i-  ,Islamabad,2021,36186,1,1800,57.9,1,0
+Toyota Aqua  2014 L ,Islamabad,2014,181328,2,1500,29,0,1
+Changan Alsvin  2021 1.5L DCT Lumiere ,Islamabad,2021,26743,1,1500,34,1,0
+Honda Cross Road  2010 1.8 L X  ,Islamabad,2010,42569,1,1800,40,1,0
+Toyota Harrier  2014 Elegance ,Islamabad,2014,172199,2,2000,1.05,1,0
+Toyota Prius  2014 S LED Edition 1.8 ,Islamabad,2014,205014,1,1800,42,0,1
+DFSK Glory 580  2021 Pro ,Islamabad,2021,7613,1,1500,52,1,0
+Honda Civic  2006 MXST (2) ,Islamabad,2006,133889,1,1300,19.5,1,0
+Suzuki Cultus  2016  ,Islamabad,2016,31304,1,1000,15.5,0,1
+MG HS  2021 1.5 Turbo ,Islamabad,2021,26725,1,1500,60,0,1
+Changan Karvaan  2021 Plus ,Islamabad,2021,45713,1,1000,22,0,1
+Toyota Crown  2001 Royal Saloon G ,Islamabad,2001,89538,1,3000,32,1,0
+Suzuki Cultus  2012  II (CNG) ,Islamabad,2012,70019,1,1000,12.8,0,1
+Suzuki Wagon R  2021 L ,Islamabad,2021,33623,1,1000,24,0,1
+Honda Vezel  2016 2 Z Honda   ,Islamabad,2016,164810,1,1500,43,1,0
+Suzuki Wagon R  2019 L ,Islamabad,2019,70233,1,1000,20.5,0,1
+Toyota Corolla  2018 Altis Grande -i 1.8 ,Islamabad,2018,46645,1,1800,46,0,1
+Honda City  2020 1.3 i-  ,Islamabad,2020,36077,1,1300,35,0,1
+Suzuki Alto  2021  ,Islamabad,2021,11045,1,660,20.5,0,1
+MG HS  2021 1.5 Turbo ,Islamabad,2021,1994,1,1500,63,0,1
+Toyota Yaris  2020 GLI MT 1.3 ,Islamabad,2020,41387,1,1300,31,0,1
+Nissan Dayz Highway Star  2019  ,Islamabad,2019,37000,2,660,32.8,0,1
+MG HS  2021 1.5 Turbo ,Islamabad,2021,10731,1,1500,71,0,1
+Hyundai Sonata  2021 2.5 ,Islamabad,2021,3228,1,2500,84.5,0,1
+Suzuki Jimny  2013 JLSX ,Islamabad,2013,60490,1,660,24,1,0
+DFSK Glory 580  2021 Pro ,Islamabad,2021,7613,1,1500,52,0,1
+Honda Civic  2006 MXST (2) ,Islamabad,2006,133889,1,1300,19.5,1,0
+Honda City   2018 Aspire  1.5 i- ,Lahore,2018,44000,1,1500,33.2,0,1
+Toyota Corolla  2021 Altis X 1 1.6 ,Karachi,2021,2041,1,1600,48,1,0
+Suzuki Cultus  2019 1 Gear Shift ,Islamabad,2019,75546,1,1000,24.5,1,0
+Suzuki Baleno  2004 JXR ,Lahore,2004,151000,1,1300,7.7,0,1
+Honda Vezel  2019 2 Z ,Islamabad,2019,48310,2,1500,67,1,0
+Honda Civic Reborn 2007  1.8 i- ,Islamabad,2007,241219,1,1800,15,0,1
+Toyota Aqua  2014 G ,Islamabad,2014,134997,2,1500,31,0,1
+Toyota Corolla Axio  2018 X 1.5 ,Islamabad,2018,90445,2,1500,52.9,0,1
+Honda City   2017 1.3 i- ,Islamabad,2017,102015,1,1300,26.5,1,0
+Daihatsu Move  2018 X ,Islamabad,2018,39791,1,660,29.5,0,1
+Mercedes Benz E   (W211)  2004 E200 Avantgarde ,Islamabad,2004,46829,1,1800,31,1,0
+Suzuki Mehran  2005 R ,Islamabad,2005,23222,1,800,5.9,0,1
+Toyota Corolla  2012 XLi V ,Karachi,2012,75000,1,1300,18.4,0,1
+Honda Civic Rebirth 2013   1.8 i- ,Multan,2013,150000,1,1800,25,0,1
+Toyota Corolla  2012 GLi 1 1.6 V ,Lower Dir,2012,180000,1,1600,28.4,0,1
+Suzuki Swift  2018 DLX 1 1.3 ,Karachi,2018,55000,1,1300,21.75,0,1
+Suzuki Alto  2022 L AGS ,Islamabad,2022,6000,1,660,24.7,0,1
+Suzuki Baleno  2005 JXL ,Islamabad,2005,275000,1,1300,7.5,0,1
+Suzuki Khyber  1995  ,Attock,1995,90000,1,1000,5.1,0,1
+Suzuki Margalla  1996 GL ,Sahiwal,1996,96059,1,1300,6,0,1
+Suzuki Mehran  2017  ,Lahore,2017,72000,1,800,13.95,1,0
+Honda City   2016 1.3 i- ,Islamabad,2016,82000,1,1300,25.95,0,1
+Daihatsu Mira  2014 X ,Rawalpindi,2014,93800,1,660,20,1,0
+KIA Sportage  2022  ,Islamabad,2022,5700,1,2000,71.5,0,1
+Honda City  2002 EXi ,Islamabad,2002,228628,1,1300,8,0,1
+Honda City  2022 1.5L  ,Islamabad,2022,3400,1,1500,41.5,1,0
+KIA Sportage  2022  ,Islamabad,2022,5700,1,2000,71.5,0,1
+Honda City  2002 EXi ,Islamabad,2002,228628,1,1300,8,0,1
+Honda City  2022 1.5L  ,Islamabad,2022,3400,1,1500,41.5,1,0
+Nissan Wingroad  2007 Rider 1.5 ,Islamabad,2007,169049,1,1500,21,1,0
+Toyota Corolla Axio  2019 X 1.5 ,Islamabad,2019,74365,1,1500,56,0,1
+Honda Vezel  2016 2 Z ,Islamabad,2016,49161,2,1500,52.5,0,1
+Suzuki Cultus  2018 R ,Islamabad,2018,66533,1,1000,20.95,0,1
+Honda BR-V  2020 i- S ,Islamabad,2020,34029,1,1500,43,0,1
+Suzuki Swift  2022 GLX  ,Islamabad,2022,487,1,1200,40,1,0
+Toyota Prius  2009 S LED Edition 1.8 ,Islamabad,2009,116261,2,1800,31.2,1,0
+Toyota Corolla  2001 XE ,Islamabad,2001,35755,1,1300,11,1,0
+Toyota Land Cruiser 100  2002  4.2D ,Islamabad,2002,231335,0,4200,80,1,0
+Suzuki Cultus  2020 R ,Islamabad,2020,72247,1,1000,24.4,1,0
+Suzuki Cultus  2022 1 Gear Shift ,Lahore,2022,3777,1,1000,32,0,1
+Honda BR-V  2017 i- S ,Lahore,2017,63906,1,1500,34,0,1
+Honda Civic Reborn 2009   1.8 i- ,Islamabad,2009,148676,1,1800,15.75,1,0
+Mercedes Benz E   (W211)  2004 E200 ,Islamabad,2004,105144,1,1800,44,0,1
+Toyota Corolla  2010 GLi 1.3 V ,Islamabad,2010,25102,1,1300,29,0,1
+Suzuki Cultus  2020 R ,Islamabad,2020,72247,1,1000,24.4,1,0
+Suzuki Cultus  2022 1 Gear Shift ,Lahore,2022,3777,1,1000,32,0,1
+Honda BR-V  2017 i- S ,Lahore,2017,63906,1,1500,34,0,1
+Honda Civic Reborn 2009   1.8 i- ,Islamabad,2009,148676,1,1800,15.75,0,1
+Mercedes Benz E   (W211)  2004 E200 ,Islamabad,2004,105144,1,1800,44,0,1
+Toyota Corolla  2010 GLi 1.3 V ,Islamabad,2010,25102,1,1300,29,1,0
+Mitsubishi jero  2008 GR 3.2D ,Islamabad,2008,186673,0,3200,77,0,1
+Toyota Prius Alpha  2015 G Touring ,Islamabad,2015,124286,1,1800,49.9,0,1
+Honda Civic  2004 EXi ,Islamabad,2004,249143,1,1500,12.5,0,1
+Honda City   2017 1.5 i-  ,Lahore,2017,129038,1,1500,30,1,0
+Honda Aord  2020 1.5L  Turbo ,Lahore,2020,29110,1,1500,1.17,0,1
+Honda Vezel  2014 2 Z ,Lahore,2014,57337,2,1500,53,1,0
+Toyota Vitz  2019 F 1.0 ,Lahore,2019,35974,1,1000,36.5,0,1
+KIA Sportage  2021  ,Lahore,2021,14188,1,2000,68,0,1
+Toyota Corolla  2014 GLi 1.3 V ,Lahore,2014,60944,1,1300,26,0,1
+Toyota Hilux  2007 D-4D 1 ,Lahore,2007,191289,0,3000,40,0,1
+MG ZS  2022 1.5L ,Islamabad,2022,6100,1,1500,53,1,0
+Toyota Prius  2010 G Touring Selection 1.8 ,Lahore,2010,147072,1,1800,34,1,0
+Honda Civic Rebirth 2013 Oriel  UG ,Islamabad,2013,116268,1,1800,28,0,1
+Changan Alsvin  2022 1.5L DCT Comfort ,Islamabad,2022,8392,1,1500,33.9,0,1
+Toyota Prado  2002 TZ 3.4 ,Islamabad,2002,100484,1,3400,62,0,1
+Honda City  2021 1.5L ASPIRE  ,Islamabad,2021,24993,1,1500,43.5,0,1
+Toyota sso  2019 Moda G ,Islamabad,2019,39556,1,1000,32.9,1,0
+Haval Jolion  2022 Top ,Islamabad,2022,3900,1,1500,77.7,0,1
+Suzuki Cultus  2012  II ,Islamabad,2012,113357,1,1000,13.25,0,1
+Hyundai Santro  2005 Exec ,Islamabad,2005,186385,1,1000,8.5,1,0
+Honda Aord  2020 1.5L  Turbo ,Lahore,2020,29110,1,1500,1.17,0,1
+Honda Vezel  2014 2 Z ,Lahore,2014,57337,2,1500,53,0,1
+Toyota Vitz  2019 F 1.0 ,Lahore,2019,35974,1,1000,36.5,0,1
+KIA Sportage  2021  ,Lahore,2021,14188,1,2000,68,0,1
+Toyota Corolla  2014 GLi 1.3 V ,Lahore,2014,60944,1,1300,26,0,1
+Toyota Hilux  2007 D-4D 1 ,Lahore,2007,191289,0,3000,40,1,0
+MG ZS  2022 1.5L ,Islamabad,2022,6100,1,1500,53,0,1
+Toyota Prius  2010 G Touring Selection 1.8 ,Lahore,2010,147072,1,1800,34,0,1
+Honda Civic Rebirth 2013 Oriel  UG ,Islamabad,2013,116268,1,1800,28,0,1
+Changan Alsvin  2022 1.5L DCT Comfort ,Islamabad,2022,8392,1,1500,33.9,0,1
+Toyota Prado  2002 TZ 3.4 ,Islamabad,2002,100484,1,3400,62,0,1
+Hyundai Santro  2005 Exec ,Islamabad,2005,186385,1,1000,8.5,0,1
+Toyota Hilux  2021 Revo V 1 2.8 ,Islamabad,2021,22668,0,2800,1.1,0,1
+Honda Vezel  2017 2 RS Honda   ,Islamabad,2017,94087,1,1500,53,0,1
+KIA Picanto  2022 1.0 AT ,Islamabad,2022,4400,1,1000,29,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Islamabad,2019,71747,1,1800,43,1,0
+Toyota Yaris  2022   1.3 ,Islamabad,2022,2636,1,1300,41,1,0
+Suzuki Cultus  2007 R (CNG) ,Islamabad,2007,28066,1,1000,8.3,0,1
+Suzuki Cultus  2021 1 Gear Shift ,Islamabad,2021,25052,1,1000,26.5,0,1
+Honda Civic  2020 1.8 i-  ,Islamabad,2020,46838,1,1800,49.5,0,1
+Suzuki Mehran  2015 R  II ,Islamabad,2015,50997,1,796,10.5,0,1
+Toyota Prado  2016 TX 2.7 ,Islamabad,2016,82426,1,2700,2,1,0
+Toyota Corolla  2022 Altis 1 1.6 ,Islamabad,2022,7900,1,1600,51,0,1
+Toyota C-HR  2019  ,Islamabad,2019,58621,2,1800,72,0,1
+Toyota sso  2015 X L  ,Islamabad,2015,83388,1,1000,24.5,0,1
+Suzuki Xbee  2019 MZ ,Islamabad,2019,14224,2,1000,40,0,1
+Mercedes Benz C   2009 C200 ,Karachi,2009,111864,1,1800,38,0,1
+Suzuki Cultus  2018 R ,Lahore,2018,109439,1,1000,19,0,1
+Suzuki Wagon R  2022 AGS ,Lahore,2022,5816,1,1000,28,1,0
+KIA Picanto  2021 1.0 AT ,Lahore,2021,10688,1,1000,27,0,1
+Toyota Corolla  2013 XLi V ,Lahore,2013,98670,1,1300,21,0,1
+Honda City   2017 Aspire 1.5 i- ,Lahore,2017,59989,1,1500,25,0,1
+Honda City  2021 1.5L ASPIRE  ,Islamabad,2021,24993,1,1500,43.5,0,1
+Toyota sso  2019 Moda G ,Islamabad,2019,39556,1,1000,32.9,0,1
+Haval Jolion  2022 Top ,Islamabad,2022,3900,1,1500,77.7,1,0
+Suzuki Cultus  2012  II ,Islamabad,2012,113357,1,1000,13.25,0,1
+Hyundai Santro  2005 Exec ,Islamabad,2005,186385,1,1000,8.5,0,1
+Toyota Hilux  2021 Revo V 1 2.8 ,Islamabad,2021,22668,0,2800,1.1,1,0
+Honda Vezel  2017 2 RS Honda   ,Islamabad,2017,94087,1,1500,53,0,1
+KIA Picanto  2022 1.0 AT ,Islamabad,2022,4400,1,1000,29,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Islamabad,2019,71747,1,1800,43,0,1
+Toyota Yaris  2022   1.3 ,Islamabad,2022,2636,1,1300,41,0,1
+Suzuki Cultus  2007 R (CNG) ,Islamabad,2007,28066,1,1000,8.3,0,1
+Suzuki Cultus  2021 1 Gear Shift ,Islamabad,2021,25052,1,1000,26.5,0,1
+Honda City   2017 Aspire 1.5 i- ,Lahore,2017,59989,1,1500,25,1,0
+BMW X1  2021 sDrive18i ,Lahore,2021,5532,1,1500,1.75,0,1
+Suzuki Cultus  2013  II ,Lahore,2013,9729,1,1000,12.5,0,1
+Suzuki Wagon R  2019 L ,Lahore,2019,52358,1,1000,21.5,1,0
+Honda Civic Reborn 2008  Oriel  1.8 i- ,Lahore,2008,104129,1,1800,18,1,0
+Toyota Fortuner  2022 Legender  ,Lahore,2022,7507,0,2800,1.45,0,1
+Suzuki Alto  2022 R ,Lahore,2022,9848,1,660,21.4,0,1
+Honda City   2013 Aspire 1.5 i- ,Lahore,2013,74896,1,1500,22.5,0,1
+Suzuki Every  2010  ,Lahore,2010,53613,1,660,13.8,1,0
+Honda City   2018 Aspire  1.5 i- ,Lahore,2018,256180,1,1500,30.7,1,0
+Suzuki Cultus  2019 L ,Lahore,2019,75197,1,1000,25.5,0,1
+Toyota Corolla  2016 Altis 1 1.6 ,Lahore,2016,145642,1,1600,31,0,1
+Honda BR-V  2019 i- MT ,Lahore,2019,29270,1,1500,35.35,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Lahore,2019,69848,1,1800,40.5,0,1
+Chevrolet Joy  2009 1.0 ,Lahore,2009,217592,1,1000,8.5,0,1
+Honda City   2017 1.5 i- ,Lahore,2017,107964,1,1500,23,1,0
+Mercedes Benz E   (W212)  2010 E250 ,Lahore,2010,149071,1,2000,70,0,1
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,106536,1,1800,40,1,0
+Toyota Corolla  2016 Altis 1 1.6 ,Lahore,2016,108197,1,1600,30.5,0,1
+Honda Civic  2020 1.8 i-  ,Islamabad,2020,46838,1,1800,49.5,1,0
+Suzuki Mehran  2015 R  II ,Islamabad,2015,50997,1,796,10.5,1,0
+Toyota Prado  2016 TX 2.7 ,Islamabad,2016,82426,1,2700,2,0,1
+Toyota Corolla  2022 Altis 1 1.6 ,Islamabad,2022,5900,1,1600,51,0,1
+Toyota C-HR  2019  ,Islamabad,2019,58621,2,1800,72,1,0
+Toyota sso  2015 X L  ,Islamabad,2015,83388,1,1000,24.5,1,0
+Suzuki Xbee  2019 MZ ,Islamabad,2019,14224,2,1000,40,0,1
+Mercedes Benz C   2009 C200 ,Karachi,2009,111864,1,1800,38,0,1
+Suzuki Cultus  2018 R ,Lahore,2018,109439,1,1000,19,1,0
+Suzuki Wagon R  2022 AGS ,Lahore,2022,5816,1,1000,28,0,1
+KIA Picanto  2021 1.0 AT ,Lahore,2021,10688,1,1000,27,1,0
+Toyota Prius  2013 G Touring Selection 1.8 ,Lahore,2013,142349,1,1800,41,0,1
+Honda Vezel  2016 2 Z Honda   ,Lahore,2016,62083,1,1500,44,1,0
+Toyota Raize  2021  ,Islamabad,2021,5152,1,1000,52,1,0
+Honda Civic Reborn 2011   1.8 i- ,Islamabad,2011,70330,1,1800,22,0,1
+Honda City  2021 1.2L M/T ,Lahore,2021,3961,1,1200,36,0,1
+Toyota Prius Alpha  2017 S L Selection ,Islamabad,2017,127226,2,1800,59,0,1
+Hyundai Sonata  2022 2.5 ,Islamabad,2022,14514,1,2500,79,0,1
+Honda City  2021 1.2L M/T ,Islamabad,2021,11752,1,1200,35.5,1,0
+Changan Alsvin  2021 1.5L DCT Lumiere ,Islamabad,2021,38338,1,1500,34,0,1
+Toyota Raize  2020 Z ,Lahore,2020,21811,1,1000,49.5,0,1
+Honda Civic  2003 EXi ,Lahore,2003,148111,1,1500,11.5,0,1
+MG HS  2021 1.5 Turbo ,Lahore,2021,21818,1,1500,60,0,1
+Suzuki Cultus  2021 L ,Lahore,2021,13357,1,1000,28.75,0,1
+Suzuki Cultus  2017 L ,Lahore,2017,83156,1,1000,19.8,0,1
+Toyota Corolla  2017 Altis 1 1.6 ,Lahore,2017,85459,1,1600,43.5,1,0
+Suzuki Wagon R  2018 L ,Lahore,2018,85841,1,1000,18.8,0,1
+Daihatsu Move  2012  ,Lahore,2012,94451,1,660,16.5,0,1
+Toyota Yaris  2021 GLI MT 1.3 ,Lahore,2021,21689,1,1300,32,0,1
+Honda City   2015 1.3 i-  ,Lahore,2015,184011,1,1300,24.5,0,1
+MG ZS  2021 1.5L ,Lahore,2021,29977,1,1500,48.5,0,1
+Suzuki Wagon R  2016 L ,Lahore,2016,145937,1,1000,15.95,0,1
+KIA Picanto  2022 1.0 AT ,Lahore,2022,1141,1,1000,29.9,1,0
+Suzuki Cultus  2014  II ,Lahore,2014,67701,1,1000,14,0,1
+Honda City  2020 1.3 i- ,Lahore,2020,19443,1,1300,32.75,0,1
+Toyota Corolla  2013 XLi V ,Lahore,2013,98670,1,1300,21,1,0
+Honda City   2017 Aspire 1.5 i- ,Lahore,2017,59989,1,1500,25,0,1
+BMW X1  2021 sDrive18i ,Lahore,2021,5532,1,1500,1.75,0,1
+Suzuki Cultus  2013  II ,Lahore,2013,9729,1,1000,12.5,1,0
+Suzuki Wagon R  2019 L ,Lahore,2019,52358,1,1000,21.5,0,1
+Honda Civic Reborn 2008  Oriel  1.8 i- ,Lahore,2008,104129,1,1800,18,1,0
+Toyota Fortuner  2022 Legender  ,Lahore,2022,7507,0,2800,1.45,1,0
+Suzuki Alto  2022 R ,Lahore,2022,9848,1,660,21.4,0,1
+Honda City   2013 Aspire 1.5 i- ,Lahore,2013,74896,1,1500,22.5,1,0
+Suzuki Every  2010  ,Lahore,2010,53613,1,660,13.8,0,1
+Honda City   2018 Aspire  1.5 i- ,Lahore,2018,256180,1,1500,30.7,1,0
+Suzuki Cultus  2019 L ,Lahore,2019,75197,1,1000,25.5,0,1
+Honda Fit  2015 1.5 2 Base Grade  ,Lahore,2015,133963,2,1500,27.5,0,1
+Toyota Yaris  2021  X  1.5 ,Lahore,2021,16203,1,1500,43,1,0
+Honda Civic Eagle Eye 2005 EXi ,Lahore,2005,226716,1,1500,11.75,0,1
+Hyundai Elantra  2022 GLS ,Lahore,2022,7116,1,2000,57,1,0
+Suzuki Cultus  2017 R ,Lahore,2017,124593,1,1000,19,1,0
+Honda City   2016 Aspire  1.5 i- ,Lahore,2016,147085,1,1500,27,1,0
+Honda City   2018 1.3 i-  ,Lahore,2018,51567,1,1300,31.75,1,0
+KIA Sportage  2022  ,Lahore,2022,1600,1,2000,69,0,1
+Suzuki Wagon R  2016 L ,Lahore,2016,91310,1,1000,16.9,1,0
+Honda City  2021 1.5L ASPIRE  ,Lahore,2021,12649,1,1500,42.6,1,0
+Suzuki Cultus  2018 L ,Lahore,2018,67126,1,1000,26,0,1
+Honda Vezel  2016 2 RS Honda   ,Lahore,2016,53008,1,1500,59,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Lahore,2015,133923,1,1800,30,1,0
+Suzuki Wagon R  2019 L ,Lahore,2019,65242,1,1000,20.1,1,0
+Proton Saga  2021 1.3L R3 M/T ,Lahore,2021,30382,1,1300,25.75,0,1
+KIA Grand Carnival  2021 GLS+ ,Lahore,2021,10000,1,3500,1.17,0,1
+DFSK Glory 580  2021 Pro ,Lahore,2021,21898,1,1500,51,1,0
+Toyota Corolla  2022 Altis Grande X -i 1.8 Black Interior ,Lahore,2022,588,1,1800,59.25,0,1
+Daihatsu Move  2013 Custom X SA ,Lahore,2013,125232,1,660,19,0,1
+Suzuki Cultus  2019 L ,Lahore,2019,75197,1,1000,25.5,1,0
+Toyota Corolla  2016 Altis 1 1.6 ,Lahore,2016,145642,1,1600,31,0,1
+Honda BR-V  2019 i- MT ,Lahore,2019,29270,1,1500,35.35,1,0
+Honda Civic  2019 Oriel 1.8 i-  ,Lahore,2019,69848,1,1800,40.5,0,1
+Chevrolet Joy  2009 1.0 ,Lahore,2009,217592,1,1000,8.5,0,1
+Honda City   2017 1.5 i- ,Lahore,2017,107964,1,1500,23,0,1
+Mercedes Benz E   (W212)  2010 E250 ,Lahore,2010,149071,1,2000,70,1,0
+Honda Civic  2017 Oriel 1.8 i-  ,Lahore,2017,106536,1,1800,40,0,1
+Toyota Corolla  2016 Altis 1 1.6 ,Lahore,2016,108197,1,1600,30.5,1,0
+Toyota Prius  2013 G Touring Selection 1.8 ,Lahore,2013,142349,1,1800,41,0,1
+Honda Vezel  2016 2 Z Honda   ,Lahore,2016,62083,1,1500,44,0,1
+Toyota Raize  2021  ,Islamabad,2021,5152,1,1000,52,1,0
+Suzuki Cultus  2021 L ,Lahore,2021,20969,1,1000,26.8,1,0
+Honda Civic  2022 Oriel 1.8 i-  ,Lahore,2022,16422,1,1800,59.35,0,1
+Daihatsu Terios  2014 4x2 1 ,Lahore,2014,85653,1,1500,42,0,1
+Toyota Yaris  2021   1.3 ,Lahore,2021,20750,1,1300,36.5,0,1
+Toyota Vitz  2006 F 1.3 ,Lahore,2006,190635,1,1300,18.5,0,1
+Toyota Fortuner  2019 2.7 V ,Lahore,2019,86154,1,2700,1,1,0
+Honda Vezel  2015 2 Z ,Lahore,2015,65851,2,1500,45.75,0,1
+Toyota Corolla  2015 GLi 1.3 V ,Lahore,2015,114757,1,1300,25.5,1,0
+Honda Civic Rebirth 2014  Oriel  1.8 i- ,Lahore,2014,176619,1,1800,25.5,0,1
+Suzuki Wagon R  2016 R ,Lahore,2016,482021,1,1000,16,1,0
+Toyota Yaris Hatchback  2020  ,Lahore,2020,31759,1,1000,42.9,1,0
+Suzuki Wagon R  2021 R ,Lahore,2021,14084,1,1000,22.6,0,1
+Suzuki Liana  2008 RXi ,Lahore,2008,143563,1,1300,8.8,0,1
+KIA Grand Carnival  2021 GLS+ ,Lahore,2021,7574,1,3500,1.2,0,1
+Suzuki Cultus  2013  II ,Lahore,2013,50849,1,1000,14,0,1
+Hyundai Tucson  2022  A/T Ultimate ,Lahore,2022,4200,1,2000,74,0,1
+Audi A6  (C7)  2015 1.8 TFSI Business  Edition ,Lahore,2015,91592,1,1800,89,0,1
+Toyota Vitz  2008 B 1.0 ,Lahore,2008,173125,1,1000,16.75,1,0
+Honda Civic Reborn 2011   1.8 i- ,Islamabad,2011,70330,1,1800,22,0,1
+Honda City  2021 1.2L M/T ,Lahore,2021,3961,1,1200,36,0,1
+Toyota Prius Alpha  2017 S L Selection ,Islamabad,2017,127226,2,1800,59,0,1
+Hyundai Sonata  2022 2.5 ,Islamabad,2022,14514,1,2500,79,0,1
+Honda City  2021 1.2L M/T ,Islamabad,2021,11752,1,1200,35.5,0,1
+Changan Alsvin  2021 1.5L DCT Lumiere ,Islamabad,2021,38338,1,1500,34,0,1
+Toyota Raize  2020 Z ,Lahore,2020,21811,1,1000,49.5,1,0
+Honda Civic  2003 EXi ,Lahore,2003,148111,1,1500,11.5,0,1
+MG HS  2021 1.5 Turbo ,Lahore,2021,21818,1,1500,60,1,0
+Suzuki Cultus  2021 L ,Lahore,2021,13357,1,1000,28.75,0,1
+Suzuki Cultus  2017 L ,Lahore,2017,83156,1,1000,19.8,1,0
+Toyota Corolla  2017 Altis 1 1.6 ,Lahore,2017,85459,1,1600,43.5,1,0
+Suzuki Alto  2022 R ,Lahore,2022,2057,1,660,22.4,0,1
+Honda Civic Reborn 2009  Oriel  1.8 i- ,Lahore,2009,137981,1,1800,19,1,0
+Toyota Corolla  2012 Altis Cruisetronic 1.6 ,Lahore,2012,181469,1,1600,24.5,0,1
+Honda City  2021 Aspire  1.5 i- ,Lahore,2021,27968,1,1500,37.5,0,1
+Toyota Rush  2019 S ,Lahore,2019,115940,1,1500,60,0,1
+Honda Civic  2022 1.5 RS Turbo ,Lahore,2022,2628,1,1500,79.5,0,1
+Toyota Corolla  2018 Altis 1 1.6 ,Lahore,2018,120663,1,1600,38.5,1,0
+Toyota Fortuner  2018 2.7 V ,Lahore,2018,37913,1,2700,95,0,1
+MG HS  2021 1.5 Turbo ,Lahore,2021,16712,1,1500,66,0,1
+Toyota Corolla  2016 GLi 1 1.3 V ,Lahore,2016,73821,1,1300,29.95,1,0
+Toyota Crown  2018 RS Advance ,Lahore,2018,22982,1,2500,1.89,0,1
+Honda BR-V  2021 i- S ,Lahore,2021,10722,1,1500,45.5,0,1
+Daihatsu Cuore  2011 CX Eco ,Lahore,2011,82068,1,800,10.85,1,0
+KIA Sportage  2021  ,Lahore,2021,14337,1,2000,61.9,0,1
+Honda Civic Reborn 2011   1.8 i- ,Lahore,2011,170698,1,1800,19.5,1,0
+Nissan Kix  2009  ,Lahore,2009,99713,1,660,14.5,1,0
+United Alpha  2022 1.0 0 ,Lahore,2022,10796,1,1000,15.9,0,1
+Audi A5  2019 1.4 TFSI Sportback ,Lahore,2019,36572,1,1400,1.45,1,0
+Toyota Fortuner  2017 2.7 V ,Lahore,2017,55575,1,2700,93,0,1
+Suzuki Cultus  2013  II ,Lahore,2013,53322,1,1000,13,0,1
+Prince Pearl  2021 MT ,Lahore,2021,33992,1,800,11,0,1
+Toyota Vitz  2018  ,Lahore,2018,53494,1,1000,34.5,0,1
+Honda City  2019 1.3 i-  ,Lahore,2019,76957,1,1300,30.5,0,1
+Suzuki Wagon R  2018 L ,Lahore,2018,85841,1,1000,18.8,0,1
+Daihatsu Move  2012  ,Lahore,2012,94451,1,660,16.5,0,1
+Toyota Yaris  2021 GLI MT 1.3 ,Lahore,2021,21689,1,1300,32,0,1
+Honda City   2015 1.3 i-  ,Lahore,2015,184011,1,1300,24.5,0,1
+MG ZS  2021 1.5L ,Lahore,2021,29977,1,1500,48.5,0,1
+Suzuki Wagon R  2016 L ,Lahore,2016,145937,1,1000,15.95,0,1
+KIA Picanto  2022 1.0 AT ,Lahore,2022,1141,1,1000,29.9,1,0
+Suzuki Cultus  2014  II ,Lahore,2014,67701,1,1000,14,0,1
+Honda City  2020 1.3 i- ,Lahore,2020,19443,1,1300,32.75,0,1
+Honda Fit  2015 1.5 2 Base Grade  ,Lahore,2015,133963,2,1500,27.5,0,1
+Toyota Yaris  2021  X  1.5 ,Lahore,2021,16203,1,1500,43,1,0
+Honda Civic Eagle Eye 2005 EXi ,Lahore,2005,226716,1,1500,11.75,0,1
+Suzuki Cultus  2016  ,Lahore,2016,68003,1,1000,15.5,0,1
+KIA Picanto  2022 1.0 MT ,Lahore,2022,3200,1,1000,28.95,1,0
+Suzuki Wagon R  2021 R ,Lahore,2021,11515,1,1000,22.25,1,0
+Suzuki Wagon R  2021 AGS ,Lahore,2021,29543,1,1000,26.75,0,1
+Honda City  2008 i-DSI ,Lahore,2008,127750,1,1300,17,0,1
+Changan Karvaan  2020 Base Model 1.0 ,Lahore,2020,137968,1,1000,19.5,1,0
+Mercedes Benz CLA   2013 CLA180 ,Lahore,2013,78222,1,1600,82,0,1
+Changan Karvaan  2022 Plus ,Lahore,2022,1312,1,1000,25,1,0
+Suzuki Swift  2022 GLX  ,Lahore,2022,3000,1,1200,38,0,1
+Range Rover Sport  2010 5.0 V8 ,Lahore,2010,108472,1,5000,1.85,0,1
+Mazda Flair Crossover  2017 XG ,Lahore,2017,26611,1,660,22,1,0
+Toyota Yaris  2022  X  1.5 ,Lahore,2022,1709,1,1500,44,0,1
+Honda Civic Rebirth 2014 Oriel  UG ,Lahore,2014,109264,1,1800,28,1,0
+Hyundai Elantra  2022 GLS ,Lahore,2022,7116,1,2000,57,1,0
+Suzuki Cultus  2017 R ,Lahore,2017,124593,1,1000,19,0,1
+Honda City   2016 Aspire  1.5 i- ,Lahore,2016,147085,1,1500,27,0,1
+Honda City   2018 1.3 i-  ,Lahore,2018,51567,1,1300,31.75,1,0
+KIA Sportage  2022  ,Lahore,2022,1600,1,2000,69,1,0
+Suzuki Wagon R  2016 L ,Lahore,2016,91310,1,1000,16.9,1,0
+Honda City  2021 1.5L ASPIRE  ,Lahore,2021,12649,1,1500,42.6,1,0
+Suzuki Cultus  2018 L ,Lahore,2018,67126,1,1000,26,0,1
+Honda Vezel  2016 2 RS Honda   ,Lahore,2016,53008,1,1500,59,1,0
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Lahore,2015,133923,1,1800,30,1,0
+Suzuki Wagon R  2019 L ,Lahore,2019,65242,1,1000,20.1,0,1
+Honda Civic  2006 MX (2) ,Lahore,2006,158005,1,1300,19,1,0
+Honda City  2021 1.2L  ,Lahore,2021,20881,1,1200,37.5,0,1
+MG HS  2021 1.5 Turbo ,Lahore,2021,19467,1,1500,62.5,0,1
+Toyota Corolla  2018 Altis Grande -i 1.8 ,Lahore,2018,63802,1,1800,44.5,0,1
+Honda N Box  2020 Slash G L  ,Lahore,2020,35175,1,660,26,0,1
+Toyota Vitz  2015 F 1.0 ,Lahore,2015,68240,1,1000,29,0,1
+Daihatsu Esse  2009 Eco ,Lahore,2009,160778,1,660,13.5,0,1
+Toyota Fortuner  2016 2.7 G ,Lahore,2016,58820,1,2700,74,1,0
+Honda City   2017 1.3 i- ,Lahore,2017,92161,1,1300,27,0,1
+Honda Civic  2021 Oriel 1.8 i-  ,Lahore,2021,29572,1,1800,52,0,1
+Toyota Corolla  2015 Altis Grande -i 1.8 ,Lahore,2015,109911,1,1800,33.5,0,1
+Honda City  2021 1.5L ASPIRE  ,Lahore,2021,29133,1,1500,46,1,0
+Honda City   2015 Aspire 1.5 i- ,Lahore,2015,151189,1,1500,24.8,0,1
+Suzuki Alto  2009 R ,Lahore,2009,161061,1,1000,9.15,1,0
+DFSK Glory 580  2021 Pro ,Lahore,2021,8166,1,1500,52,0,1
+Suzuki Cultus  2015  II ,Lahore,2015,16940,1,1000,15,0,1
+MG HS  2021 1.5 Turbo ,Lahore,2021,8291,1,1500,64,1,0
+Toyota Vitz  2019 2 U 1.5 ,Lahore,2019,27086,2,1500,43,0,1
+Proton Saga  2021 1.3L R3 M/T ,Lahore,2021,30382,1,1300,25.75,0,1
+KIA Grand Carnival  2021 GLS+ ,Lahore,2021,10000,1,3500,1.17,0,1
+DFSK Glory 580  2021 Pro ,Lahore,2021,21898,1,1500,51,0,1
+Toyota Corolla  2022 Altis Grande X -i 1.8 Black Interior ,Lahore,2022,2880,1,1800,59.25,0,1
+Daihatsu Move  2013 Custom X SA ,Lahore,2013,125232,1,660,19,0,1
+Suzuki Cultus  2021 L ,Lahore,2021,20969,1,1000,26.8,0,1
+Honda Civic  2022 Oriel 1.8 i-  ,Lahore,2022,16422,1,1800,59.35,0,1
+Daihatsu Terios  2014 4x2 1 ,Lahore,2014,85653,1,1500,42,1,0
+Toyota Yaris  2021   1.3 ,Lahore,2021,20750,1,1300,36.5,0,1
+Toyota Vitz  2006 F 1.3 ,Lahore,2006,190635,1,1300,18.5,0,1
+Toyota Fortuner  2019 2.7 V ,Lahore,2019,86154,1,2700,1,0,1
+Honda City  2021 1.5L ASPIRE  ,Lahore,2021,21207,1,1500,41,1,0
+Toyota Yaris  2021  X  1.5 ,Islamabad,2021,30007,1,1500,40.5,1,0
+Suzuki Wagon R  2018 L ,Lahore,2018,18891,1,1000,22.5,0,1
+Toyota Camry XV40 2008 Up-Spec 1 2.4 ,Lahore,2008,170499,1,2400,28.5,1,0
+Suzuki Wagon R  2018 L ,Lahore,2018,44605,1,1000,18.5,0,1
+Toyota Corolla  2019 Altis 1 1.6 ,Lahore,2019,27003,1,1600,42,0,1
+Suzuki Cultus  2010 Ri ,Lahore,2010,59452,1,1000,10.5,1,0
+Suzuki Cultus  2020 R ,Lahore,2020,31050,1,1000,22.5,0,1
+Changan Alsvin  2021 1.5L DCT Lumiere ,Lahore,2021,22378,1,1500,33.5,0,1
+KIA Sportage  2019  ,Lahore,2019,72967,1,2000,60,0,1
+United Bravo  2019 Base Grade  ,Lahore,2019,21416,1,800,9.5,0,1
+KIA Sportage  2022  ,Lahore,2022,1160,1,2000,69,1,0
+Toyota Corolla 9th  2006 2.0D ,Lahore,2006,354632,0,2000,13.9,0,1
+Honda Vezel  2016 2 Z Honda   ,Lahore,2016,65968,1,1500,49.5,0,1
+Suzuki Ciaz  2018 0 ,Lahore,2018,89345,1,1400,25,0,1
+Honda Freed  2014  ,Lahore,2014,174552,1,1500,30,0,1
+Suzuki Alto  2019 L AGS ,Lahore,2019,24605,1,660,21.5,0,1
+Suzuki Wagon R  2017 L ,Lahore,2017,87159,1,1000,17,0,1
+Toyota Yaris  2021  X  1.5 ,Lahore,2021,22573,1,1500,38.4,0,1
+Honda Civic Reborn 2009  1.8 i- ,Lahore,2009,135808,1,1800,17,1,0
+Toyota Corolla  2014 Altis 1 1.6 ,Lahore,2014,115969,1,1600,28.75,0,1
+Honda Vezel  2016 2 Z Honda   ,Lahore,2016,90393,2,1500,58.85,1,0
+KIA Sorento  2021 2.4  ,Lahore,2021,1083,1,2400,82,0,1
+Honda Vezel  2015 2 Z ,Lahore,2015,65851,2,1500,45.75,1,0
+Toyota Corolla  2015 GLi 1.3 V ,Lahore,2015,114757,1,1300,25.5,1,0
+Honda Civic Rebirth 2014  Oriel  1.8 i- ,Lahore,2014,176619,1,1800,25.5,0,1
+Suzuki Wagon R  2016 R ,Lahore,2016,482021,1,1000,16,0,1
+Toyota Yaris Hatchback  2020  ,Lahore,2020,31759,1,1000,42.9,1,0
+Suzuki Wagon R  2021 R ,Lahore,2021,14084,1,1000,22.6,0,1
+Suzuki Liana  2008 RXi ,Lahore,2008,143563,1,1300,8.8,1,0
+KIA Grand Carnival  2021 GLS+ ,Lahore,2021,7574,1,3500,1.2,0,1
+Suzuki Cultus  2013  II ,Lahore,2013,50849,1,1000,14,1,0
+Hyundai Tucson  2022  A/T Ultimate ,Lahore,2022,4200,1,2000,74,0,1
+Audi A6  (C7)  2015 1.8 TFSI Business  Edition ,Lahore,2015,91592,1,1800,89,0,1
+Toyota Vitz  2008 B 1.0 ,Lahore,2008,173125,1,1000,16.75,1,0
+KIA Sorento  2021 2.4  ,Lahore,2021,1083,1,2400,82,0,1
+Toyota Fortuner  2022 Legender  ,Lahore,2022,5405,0,2800,1.58,1,0
+Toyota sso  2017 X L  ,Lahore,2017,104623,1,1000,29.5,0,1
+Toyota Corolla  2021 Altis X 1 1.6 ,Lahore,2021,24610,1,1600,43,0,1
+Toyota Corolla  2017 Altis Grande -i 1.8 ,Lahore,2017,118471,1,1800,35.5,0,1
+Toyota Prado  2012 TX 2.7 ,Lahore,2012,247462,1,2700,1.3,0,1
+Suzuki Cultus  2018 R ,Lahore,2018,33965,1,1000,24,1,0
+KIA Sportage  2022  ,Lahore,2022,3460,1,2000,64.5,0,1
+Toyota Corolla  2017 Altis 1 1.6 ,Lahore,2017,74590,1,1600,34,1,0
+Toyota Corolla  2019 Altis Grande -i 1.8 ,Lahore,2019,106842,1,1800,51,0,1
+Daihatsu Mira  2013 X ,Lahore,2013,118703,1,660,17.5,1,0
+Changan Karvaan  2022 Plus ,Lahore,2022,1666,1,1000,24.49,1,0
+Changan Karvaan  2019 Base Model 1.0 ,Lahore,2019,55497,1,1000,17,0,1
+Honda Fit  2015 1.5 2 S  ,Lahore,2015,121457,2,1500,28.5,1,0
+DFSK Glory 580  2021 Pro ,Lahore,2021,24357,1,1500,49,0,1
+Honda Civic Rebirth 2014  Oriel  1.8 i- ,Lahore,2014,119697,1,1800,29.7,0,1
+Hyundai Tucson  2020  A/T Ultimate ,Lahore,2020,37528,1,2000,65,0,1
+Honda Civic  2019 Oriel 1.8 i-  ,Lahore,2019,75546,1,1800,46,0,1
+Toyota Corolla  2012 XLi V ,Lahore,2012,152419,1,1300,18.9,0,1
+Proton X70  2022 Premium  ,Lahore,2022,1200,1,1500,73.5,0,1
+Suzuki Wagon R  2018 L ,Lahore,2018,94964,1,1000,17.25,0,1
+Honda Civic Eagle Eye 2005 EXi ,Lahore,2005,209340,1,1500,12.5,0,1
+Honda Civic Eagle Eye 2005 EXi ,Lahore,2005,387394,1,1500,13.5,0,1
+Honda City  2005 i-DSI Vario ,Lahore,2005,257374,1,1300,13,1,0
